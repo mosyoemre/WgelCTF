@@ -19,6 +19,7 @@ Herhangi bir detay için siteyi inceliyorum.
 ![site-index](https://media.discordapp.net/attachments/1284907420228784289/1284907537455644702/Index.png?ex=66e856e5&is=66e70565&hm=e5f0b971d7fa953b07d3745ee694f72e0e4e977e19475d4302da7f3f40a1edf3&=&format=webp&quality=lossless&width=647&height=595 "Site indexi")
 
 Herhangi bir detay göremediğim için sitenin kaynak koduna bakıyorum.
+
 ![jessie](https://media.discordapp.net/attachments/1284907420228784289/1284907537753444483/Ipucu.png?ex=66e856e5&is=66e70565&hm=1a6f3d246406c1ab9f34acf2366197a30fd92e5ec11e36c2cfeb93dd65cd5984&=&format=webp&quality=lossless&width=279&height=12 "Jessie")
 
 Siteyi geliştiren kişi arkadaşı için bir not bırakmış, bu ismi daha sonra kullanabiliriz, şimdilik aklımda tutuyorum.
