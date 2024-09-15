@@ -52,7 +52,7 @@ Merhabalar bu makalemde tryhackme platformundaki Wgel CTF makinesini çözeceği
 
 ![ssh-connection](https://media.discordapp.net/attachments/1284907420228784289/1284919158555021344/SSH.png?ex=66e861b8&is=66e71038&hm=44169aadad22be8ff380f43a85846707ec45028c8d54b4c0d44f9239c03a71ab&=&format=webp&quality=lossless&width=403&height=180 "Sisteme giriş")
 
-Başarılı! Sisteme başarıyla giriş yapıyorum.
+> Başarılı! Sisteme başarıyla giriş yapıyorum.
 
 ## 🏳️| Kullanıcı Flagini Bulma
 > Yetki yükseltmeden önce kullanıcı flagini buluyorum.
