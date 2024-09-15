@@ -53,7 +53,7 @@ Sisteme girebilmemi sağlayacak bilgileri topladım, kullanıcı hariç... Daha 
 
 Başarılı! Sisteme başarıyla giriş yapıyorum.
 
-## 🏳️ | Kullanıcı Flagini Bulma
+## 🏳️| Kullanıcı Flagini Bulma
 Yetki yükseltmeden önce kullanıcı flagini buluyorum.
 Kullanıcı flagini bulmak için dizinleri inceliyorum.
 
