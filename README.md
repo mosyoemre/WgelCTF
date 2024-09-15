@@ -49,7 +49,7 @@ Bulduğum SSH anahtarını wget ile kali makineme çekiyorum.
 
 Sisteme girebilmemi sağlayacak bilgileri topladım, kullanıcı hariç... Daha önce sitenin kaynak kodunda bulduğum ismi kullanmayı deniyorum.
 
-![ssh-connection](https://media.discordapp.net/attachments/1284907420228784289/1284907539359596595/SSH.png?ex=66e856e5&is=66e70565&hm=4eb8e2c2613c500154742b3da99588d39001fe9d936375e6b85a6c270cf5e31d&=&format=webp&quality=lossless&width=240&height=28 "Sisteme giriş")
+![ssh-connection](https://media.discordapp.net/attachments/1284907420228784289/1284919158555021344/SSH.png?ex=66e861b8&is=66e71038&hm=44169aadad22be8ff380f43a85846707ec45028c8d54b4c0d44f9239c03a71ab&=&format=webp&quality=lossless&width=403&height=180 "Sisteme giriş")
 
 Başarılı! Sisteme başarıyla giriş yapıyorum.
 
