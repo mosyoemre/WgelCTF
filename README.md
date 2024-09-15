@@ -2,7 +2,7 @@
 
 Merhabalar bu makalemde tryhackme platformundaki Wgel CTF makinesini çözeceğiz keyifli okumalar.
 
-## 🔎 | Tarama
+## 🔎| Tarama
 
 ### NMAP
 
@@ -41,7 +41,7 @@ Voila! SSH anahtarını içeren bir dizin buldum.
 ![ssh-key](https://media.discordapp.net/attachments/1284907420228784289/1284912747850760192/SSH_Key.png?ex=66e85bbf&is=66e70a3f&hm=6e21ccf5b5ab81d65fba1de7e2ae5ed0668aeecd141280671ffbc19cfa0fed3e&=&format=webp&quality=lossless&width=380&height=166 "SSH anahtarı")
 
 
-## 🥷 | Sisteme Sızma
+## 🥷| Sisteme Sızma
 
 Bulduğum SSH anahtarını wget ile kali makineme çekiyorum.
 
@@ -61,7 +61,7 @@ Kullanıcı flagini bulmak için dizinleri inceliyorum.
 
 "Documents" dizininde "user_flag.txt" dosyasını bulup kullanıcı flagini tryhackme'e giriyorum.
 
-## ❗ | Yetki Yükseltme ve Root Flagi
+## ❗| Yetki Yükseltme ve Root Flagi
 Son olarak makineyi bitirmek için yetki yükseltip root flagini buluyorum.
 
 ![wget-command](https://media.discordapp.net/attachments/1284907420228784289/1284907537178689616/Yetki.png?ex=66e856e5&is=66e70565&hm=ac7fda61d185ff70dcd758cf2690a7b8404ba168ed30b275d44f16d5617d77e1&=&format=webp&quality=lossless&width=722&height=87 "Açıklı komut")
