@@ -11,6 +11,7 @@ Herhangi bir açık bulabilmek için nmap ile port keşfi yapıyorum.
 ![nmap-scan1](https://media.discordapp.net/attachments/1284907420228784289/1284907537975476234/Nmap-tarama.png?ex=66e856e5&is=66e70565&hm=64325950ac8d802d178b0730f555f9f82210d53a9b2ddb3730353b437e7cfcba&=&format=webp&quality=lossless&width=237&height=37 "Nmap araması")
 
 ![nmap-scan2](https://media.discordapp.net/attachments/1284907420228784289/1284907538311024671/Nmap-tarama2.png?ex=66e856e5&is=66e70565&hm=fbde4e58fa4a50da9b816788091b4e278c84524568dfc5759b2686c39933caf9&=&format=webp&quality=lossless&width=268&height=26 "Tarama sonucu")
+
 İşte! SSH ve HTTP servisinin varsayılan portlarının aktif olduğunu görüyoruz.
 
 Herhangi bir detay için siteyi inceliyorum.
