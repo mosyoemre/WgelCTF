@@ -75,6 +75,10 @@ Merhabalar bu makalemde tryhackme platformundaki Wgel CTF makinesini çözeceği
 
 ![root-flag](https://media.discordapp.net/attachments/1284907420228784289/1284907539024056420/Root-Flag.png?ex=66e856e5&is=66e70565&hm=f3abac8c00264e53ce7e7fc930d6aa0922b0f833d28447cef44e43796bb255c7&=&format=webp&quality=lossless&width=715&height=52 "Root flagi")
 
+## 🎬| Çözüm Videosu
+
+[![Çözüm Videosu](https://img.youtube.com/vi/mkvKyMeqorc/0.jpg)](https://www.youtube.com/watch?v=mkvKyMeqorc)
+
 ## Sonuç
 > Bu makineden SSH anahtarının herkes tarafından ulaşılabilir bir yerde bırakmanın oldukça tehlikeli olduğunu anlıyoruz.
 > Böylelikle ilk makinemi başarıyla çözmüş oluyorum, buraya kadar okuduğunuz için teşekkür eder ve iyi günler dilerim.
