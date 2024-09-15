@@ -31,8 +31,8 @@ Sitede daha fazla detay bulabilmek için bir gobuster ile dizin araması yapıyo
 
 ![gobuster-result](https://media.discordapp.net/attachments/1284907420228784289/1284907554266284165/Gobuster-tarama2.png?ex=66e856e9&is=66e70569&hm=763681b3fa2d6c02ed485ca960ff6dae8015e8dc69c56e021513db7551237b49&=&format=webp&quality=lossless&width=505&height=52 "Tarama sonuçları")
 
-Tarama sonucunda işe yarayabilecek bir dizin buldum. 
-Indexinde işime yaramayan bir site var, yeni bulduğum dizin içerisinde yeni bir tarama yapıyorum.
+> Tarama sonucunda işe yarayabilecek bir dizin buldum. 
+> Indexinde işime yaramayan bir site var, yeni bulduğum dizin içerisinde yeni bir tarama yapıyorum.
 
 ![gobuster-scan2](https://media.discordapp.net/attachments/1284907420228784289/1284907554572599436/Gobuster-tarama3.png?ex=66e856e9&is=66e70569&hm=1f52a6ee23054abb4d61568bcefc7d461fcc9a2d42a661143fbf4cdcad3ab224&=&format=webp&quality=lossless&width=554&height=256 "2.tarama ve sonuçları")
 
