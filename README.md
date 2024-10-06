@@ -10,9 +10,9 @@ Merhabalar bu makalemde tryhackme platformundaki Wgel CTF makinesini çözeceği
 
 ![nmap-scan1](https://i.imgur.com/wNL7WEK.png "Nmap araması")
 
-> İşte! SSH ve HTTP servisinin varsayılan portlarının aktif olduğunu görüyoruz.
-
 ![nmap-scan2](https://i.imgur.com/8dKFEzn.png "Tarama sonucu")
+
+> İşte! SSH ve HTTP servisinin varsayılan portlarının aktif olduğunu görüyoruz.
 
 > Herhangi bir detay için siteyi inceliyorum.
 
